@@ -1,0 +1,5 @@
+{
+  "name": "ATLAS-X Video Generator",
+  "description": "A cinematic sci-fi intro generator. Upload an image to create a stunning video intro showing Earth from space, with glowing orbital paths and futuristic text effects, powered by Google's Veo model.",
+  "requestFramePermissions": []
+}
